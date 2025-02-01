@@ -26,6 +26,7 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Autopairs
 - Presence
 - Blink-cmp
+- Render-markdown
 
 ## To Do
 - Extend Keybinds for all plugins
