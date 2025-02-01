@@ -18,7 +18,6 @@
 - Blink-cmp
 
 ## To Do
-- Add copilot autocompletions
 - Extend Keybinds for all plugins
 - Add setup for latex
 - Add setup for markdown
@@ -30,6 +29,7 @@
 - Add setup for neorg
 - Customize alpha dash
 
+## Plugin Information
 #### Nvim Tree
 You change root with Control+]
 
