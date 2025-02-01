@@ -10,14 +10,17 @@
 - Which Key
 - Lua Line
 - Tokyonight
+- Neogit
 
 ## To Do
-- Search Telescope
-- Extend Keybinds for all plugins
 - Add autocompletions
-- Add setup for markdown
-- Add setup for neorg
-- Add setup for latex
 - Add copilot autocompletions
-- Add git implementation
-- Add buffers
+- Extend Keybinds for all plugins
+- Add setup for latex
+- Add setup for markdown
+
+- Search Telescope
+- Edit Readme
+- Edit file tree
+- Edit lualine
+- Add setup for neorg
