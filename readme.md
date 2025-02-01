@@ -15,9 +15,9 @@
 - Alpha Nvim
 - Autopairs
 - Presence
+- Blink-cmp
 
 ## To Do
-- Add autocompletions
 - Add copilot autocompletions
 - Extend Keybinds for all plugins
 - Add setup for latex
@@ -32,3 +32,7 @@
 
 #### Nvim Tree
 You change root with Control+]
+
+#### Blinc
+You accept autocompletions with Control+Y
+You traverse through autocompletions with Control+[p/n]
