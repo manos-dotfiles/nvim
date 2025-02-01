@@ -42,7 +42,6 @@ You traverse through autocompletions with Control+[p/n]
 - Add setup for latex
 - Search Telescope
 - Edit Readme
-- Edit file tree
 - Edit lualine
 - Add setup for neorg
 - Customize alpha dash
