@@ -4,9 +4,6 @@ local map = vim.keymap.set
 map("n", "<C-n>", "<cmd>NvimTreeToggle<CR>", { desc = "nvimtree toggle window" })
 map("n", "<leader>e", "<cmd>NvimTreeFocus<CR>", { desc = "nvimtree focus window" })
 
--- NeoGit
-map("n", "<leader>gg","<cmd>Neogit<CR>", { desc = "open neogit"})
-
 -- Telescope
 local builtin = require('telescope.builtin')
 map('n', '<leader>ff', builtin.find_files, { desc = 'Telescope find files' })
@@ -32,3 +29,6 @@ map('n', '<A-9>', '<Cmd>BufferGoto 9<CR>', opts, { desc = 'Go to 9th buffer' })
 map('n', '<A-0>', '<Cmd>BufferLast<CR>', opts, { desc = 'Go to last buffer' })
 map('n', '<A-p>', '<Cmd>BufferPin<CR>', opts, { desc = 'Pin/unpin buffer' })
 map('n', '<A-w>', '<Cmd>BufferClose<CR>', opts, { desc = 'Close buffer' })
+
+-- Lazy
+map('n', '<leader>l', '<cmd>Lazy<CR>', { desc = 'Open Lazy' })

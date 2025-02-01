@@ -24,6 +24,7 @@
 
 - Search Telescope
 - Edit Readme
+- Lazy load plugins
 - Edit file tree
 - Edit lualine
 - Add setup for neorg
