@@ -4,8 +4,8 @@ This NeoVim configuration serves as my daily text editor, IDE, and university no
 ## Installation
 Some prerequisites are needed to be installed before using this configuration. First and foremost, you need to have NeoVim installed (obviously). Furthermore, you will need a python3 version for UtilSnips. After that you can install the configuration by running the following commands. Make sure that the `.config/nvim` folder is backed up because you will lose your previous configurations.
 ```
-git clone https://github.com/manoskamarianos/nvim.git; \
-mv nvim ~/.config; \
+git clone https://github.com/manoskamarianos/nvim.git;\
+mv nvim ~/.config;\
 nvim
 ```
 After that, lazy will have probably installed all the plugins. Make sure to run `checkhealth <plugin>` in order to see if everything is installed correctly.
@@ -31,7 +31,6 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 ## To Do
 - Extend Keybinds for all plugins
 - Add setup for latex
-- Add setup for markdown
 - Search Telescope
 - Edit Readme
 - Edit file tree
