@@ -1,8 +1,4 @@
-require("bootstrap.lazy")
-
 require("keymaps")
 require("options")
-require("lazy").setup("plugins")
+require("bootstrap.lazy")
 
-require("lualine").setup({})
-require("tokyonight")
