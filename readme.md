@@ -27,6 +27,7 @@
 - Edit file tree
 - Edit lualine
 - Add setup for neorg
+- Customize alpha dash
 
 #### Nvim Tree
 You change root with Control+]
