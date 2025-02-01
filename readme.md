@@ -28,6 +28,15 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Blink-cmp
 - Render-markdown
 
+## Plugin Information
+
+#### Nvim Tree
+You change root with Control+]
+
+#### Blink
+You accept autocompletions with Control+Y
+You traverse through autocompletions with Control+[p/n]
+
 ## To Do
 - Extend Keybinds for all plugins
 - Add setup for latex
@@ -38,10 +47,3 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Add setup for neorg
 - Customize alpha dash
 
-## Plugin Information
-#### Nvim Tree
-You change root with Control+]
-
-#### Blink
-You accept autocompletions with Control+Y
-You traverse through autocompletions with Control+[p/n]
