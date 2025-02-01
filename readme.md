@@ -11,6 +11,9 @@
 - Lua Line
 - Tokyonight
 - Neogit
+- Barbar
+- Alpha Nvim
+- Autopairs
 
 ## To Do
 - Add autocompletions
@@ -24,3 +27,6 @@
 - Edit file tree
 - Edit lualine
 - Add setup for neorg
+
+#### Nvim Tree
+You change root with Control+]
