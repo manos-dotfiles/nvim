@@ -14,6 +14,7 @@
 - Barbar
 - Alpha Nvim
 - Autopairs
+- Presence
 
 ## To Do
 - Add autocompletions
