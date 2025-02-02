@@ -27,6 +27,7 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Presence
 - Blink-cmp
 - Render-markdown
+- Vimtex
 
 ## Plugin Information
 
@@ -39,7 +40,7 @@ You traverse through autocompletions with Control+[p/n]
 
 ## To Do
 - Extend Keybinds for all plugins
-- Add setup for latex
+- Add snipets for latex
 - Search Telescope
 - Edit Readme
 - Edit lualine

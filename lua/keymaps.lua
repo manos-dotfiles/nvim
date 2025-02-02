@@ -31,4 +31,4 @@ map('n', '<A-p>', '<Cmd>BufferPin<CR>', opts, { desc = 'Pin/unpin buffer' })
 map('n', '<A-w>', '<Cmd>BufferClose<CR>', opts, { desc = 'Close buffer' })
 
 -- Lazy
-map('n', '<leader>l', '<cmd>Lazy<CR>', { desc = 'Open Lazy' })
+-- map('n', '<leader>l', '<cmd>Lazy<CR>', { desc = 'Open Lazy' })
