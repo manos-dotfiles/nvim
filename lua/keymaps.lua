@@ -1,5 +1,8 @@
 local map = vim.keymap.set
 
+-- General
+map("n", "<C-s>", "<cmd>w<CR>", { desc = "general save file" })
+
 -- Nvim Tree
 map("n", "<C-n>", "<cmd>NvimTreeToggle<CR>", { desc = "nvimtree toggle window" })
 map("n", "<leader>e", "<cmd>NvimTreeFocus<CR>", { desc = "nvimtree focus window" })
