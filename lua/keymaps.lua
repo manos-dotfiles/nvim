@@ -2,6 +2,7 @@ local map = vim.keymap.set
 
 -- General
 map("n", "<C-s>", "<cmd>w<CR>", { desc = "general save file" })
+map("n", "<C-q>", "<cmd>qall!<CR>", { desc = "quit everything" })
 
 -- Nvim Tree
 map("n", "<C-n>", "<cmd>NvimTreeToggle<CR>", { desc = "nvimtree toggle window" })
@@ -35,3 +36,6 @@ map('n', '<A-w>', '<Cmd>BufferClose<CR>', opts, { desc = 'Close buffer' })
 
 -- Lazy
 -- map('n', '<leader>l', '<cmd>Lazy<CR>', { desc = 'Open Lazy' })
+
+-- Toggle Term
+map('n', '<leader>t', '<cmd>ToggleTerm direction=horizontal<CR>', { desc = 'Toggle terminal' })

@@ -28,6 +28,7 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Blink-cmp
 - Render-markdown
 - Vimtex
+- ToggleTerm
 
 ## Plugin Information
 
@@ -39,6 +40,7 @@ You accept autocompletions with Control+Y
 You traverse through autocompletions with Control+[p/n]
 
 ## To Do
+- make file tree explorer on alpha open to the directory of your chosing
 - Extend Keybinds for all plugins
 - Add snipets for latex
 - Search Telescope
