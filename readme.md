@@ -38,14 +38,3 @@ You change root with Control+]
 #### Blink
 You accept autocompletions with Control+Y
 You traverse through autocompletions with Control+[p/n]
-
-## To Do
-- make file tree explorer on alpha open to the directory of your chosing
-- Extend Keybinds for all plugins
-- Add snipets for latex
-- Search Telescope
-- Edit Readme
-- Edit lualine
-- Add setup for neorg
-- Customize alpha dash
-
