@@ -3,6 +3,7 @@ local map = vim.keymap.set
 -- General
 map("n", "<C-s>", "<cmd>w<CR>", { desc = "general save file" })
 map("n", "<C-q>", "<cmd>qall!<CR>", { desc = "quit everything" })
+map("n", "<C-[>", vim.lsp.buf.references, { desc = "quit everything" })
 
 -- Nvim Tree
 map("n", "<C-n>", "<cmd>NvimTreeToggle<CR>", { desc = "nvimtree toggle window" })
