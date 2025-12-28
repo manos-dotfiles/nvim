@@ -29,6 +29,9 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Render-markdown
 - Vimtex
 - ToggleTerm
+- Precense
+- mini-icons
+- obsidian-nvim
 
 ## Plugin Information
 

@@ -14,7 +14,7 @@ o.shiftwidth = 4
 o.smartindent = true
 o.tabstop = 4
 o.softtabstop = 4
-o.clipboard="unnamedplus"
+o.clipboard = "unnamedplus"
 
 g.vimtex_view_method = "zathura"
 
