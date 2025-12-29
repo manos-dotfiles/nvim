@@ -2,9 +2,7 @@ return {
     "epwalsh/obsidian.nvim",
     version = "*",
     lazy = true,
-    -- enabled = false,
-    -- ft = "markdown",
-
+    ft = "markdown",
     dependencies = {
         "nvim-lua/plenary.nvim",
     },
@@ -12,7 +10,7 @@ return {
         workspaces = {
             {
                 name = "notes",
-                path = "~/notes",
+                path = "/home/manos/notes",
             },
         },
         ui = { 
