@@ -1,3 +1,8 @@
+--[[
+Alpha Dash is used as the dashboard when
+nvim is opened without a file
+--]]
+
 return {
     "goolord/alpha-nvim",
     event = "VimEnter",
