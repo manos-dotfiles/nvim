@@ -32,6 +32,7 @@ After that, lazy will have probably installed all the plugins. Make sure to run 
 - Precense
 - mini-icons
 - obsidian-nvim
+- nvim-orgmode
 
 ## Plugin Information
 
