@@ -4,9 +4,10 @@ parenthesis and square bracket autocompletion
 --]]
 
 return {
-  'windwp/nvim-autopairs',
-  event = "InsertEnter",
-  config = function()
-    require("nvim-autopairs").setup({})
-  end,
+    'windwp/nvim-autopairs',
+    enable = false,
+    event = "InsertEnter",
+    config = function()
+        require("nvim-autopairs").setup({})
+    end,
 }

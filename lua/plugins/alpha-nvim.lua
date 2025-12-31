@@ -46,7 +46,7 @@ return {
             dashboard.button("f", "󰮗   Find file", ":cd $HOME | Telescope find_files hidden=true<CR>"),
             dashboard.button("e", "   File Explorer", ":cd $PWD | NvimTreeFocus<CR>"),
             dashboard.button("r", "   Recent", ":Telescope oldfiles<CR>"),
-            dashboard.button("N", "   Notes", ":cd $HOME/notes | NvimTreeFocus<CR>"),
+            dashboard.button("N", "   Notes", ":cd $HOME/notes | :e ~/notes/<CR>"),
             dashboard.button("c", "   Nvim Configuration", ":cd $HOME/.config/nvim | :e ~/.config/nvim/init.lua<CR>"),
             dashboard.button("R", "󱘞   Ripgrep", ":Telescope live_grep<CR>"),
             dashboard.button("q", "󰗼   Quit", ":qa<CR>"),
